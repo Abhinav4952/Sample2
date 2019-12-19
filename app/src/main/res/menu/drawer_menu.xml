@@ -9,22 +9,22 @@
 
         <item
             android:id="@+id/home"
-            android:title="Home"
+            android:title="Change1"
             android:icon="@drawable/ic_action_home"
             />
         <item
             android:id="@+id/work"
-            android:title="Work"
+            android:title="Change2"
             android:icon="@drawable/ic_action_work"
             />
         <item
             android:id="@+id/school"
-            android:title="School"
+            android:title="Datepick"
             android:icon="@drawable/ic_action_shool"
             />
         <item
             android:id="@+id/timeline"
-            android:title="Time Line"
+            android:title="Imageupload"
             android:icon="@drawable/ic_action_timeline"
             />
 
